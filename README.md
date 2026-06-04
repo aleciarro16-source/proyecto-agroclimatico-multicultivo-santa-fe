@@ -89,8 +89,24 @@ informe_final/
 
 ---
 
-## 🌾 Autor
+## 📷 Visualizaciones del proyecto
 
+### Heatmap multicultivo
+![Heatmap](images/heatmap_multicultivo.png)
+
+### Comparación multicultivo
+![Comparación multicultivo](images/comparacion_multicultivo.png)
+
+### Categorías agroambientales GIS
+![GIS](images/categorias_agroambientales_gis.png)
+
+### Rendimiento real vs predicho — Maíz
+![Real vs predicho maíz](images/real_vs_predicho_maiz.png)
+
+### Timeline de campañas extremas — Trigo
+![Timeline trigo](images/timeline_extremos_trigo.png)
+
+## 🌾 Autor
 **Aylen Sabrina Ciarrocchi**
 Argentina 🇦🇷
 
