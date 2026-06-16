@@ -42,6 +42,32 @@ El proyecto integra:
 
 ---
 
+## 📊 Dashboard interactivo Power BI
+
+Dashboard multicultivo desarrollado en Power BI para visualizar los resultados del análisis agroclimático de soja, maíz y trigo en el sur de Santa Fe.
+
+Incluye:
+
+- Indicadores KPI de rendimiento por cultivo.
+- Evolución histórica del rendimiento (1980–2024).
+- Importancia de variables agroclimáticas mediante modelos de Machine Learning.
+- Navegación interactiva entre cultivos.
+- Dashboard ejecutivo comparativo multicultivo.
+
+### Visualizaciones
+
+#### Dashboard Ejecutivo
+![Dashboard Ejecutivo](dashboard/Dashboard_Ejecutivo)
+
+#### Soja
+![Dashboard Soja](dashboard/Dashboard_Soja)
+
+#### Maíz
+![Dashboard Maíz](dashboard/Dashboard_Maíz)
+
+#### Trigo
+![Dashboard Trigo](dashboard/Dashboard_Trigo)
+
 ## 🛰️ Variables agroclimáticas analizadas
 
 * precipitación,
